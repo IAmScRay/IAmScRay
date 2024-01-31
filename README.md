@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is pronounced "Pavlo". I am a 22 years old blockchain enthusiast & part-time Web developer, and I consider myself Strong Middle Python Developer from Kyiv, Ukraine.
+My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is pronounced "Pavlo". I am a 22 years old blockchain enthusiast & part-time Web developer, and I consider myself Senior Python Developer from Kyiv, Ukraine.
 
 Some of my childhood experiences include ``PHP``, ``Java``, ``C`` (damn that's rough for a 10-year old...), and I started my programming journey with developing modifications & extensions for Minecraft game servers (mostly with Java and PHP).
 
