@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is pronounced "Pavlo". I am a 23 years old blockchain enthusiast & part-time Web developer, and I consider myself Senior Python Developer from Kyiv, Ukraine.
+My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is pronounced "Pavlo". I am a 24 years old blockchain enthusiast.
 
-Some of my childhood experiences include ``PHP``, ``Java``, ``C`` (damn that's rough for a 10-year old...), and I started my programming journey with developing modifications & extensions for Minecraft game servers (mostly with Java and PHP).
+Languages I use:
+- Python (back-end logic with `FastAPI`, TG bots with `aiogram`, UI with `tkinter`, personal pet projects)
+- Bash (server automation)
+- JavaScript (front-end development with `ReactJS`)
+- Vyper (smart contracts development for EVM-based chains)
 
-My web development stack includes basic stuff like ``HTML``, ``CSS``, ``JS``, some ``Node.js`` and ``jQuery``.
+✳️ [Allora Network](https://allora.network)'s Community Moderator ✳️
 
-I think I am proficient in Python based on my pet-projects, released programs and some external evaluations. I am able to:
-
-- create sophisticated Telegram bots (blockchain-related or else)
-- create a GUI using ``Tkinter`` & ``Pillow`` libraries
-- use various networking libraries like ``requests`` or ``aiohttp`` for (a)synchronous HTTP requests
-- use libraries for creating web servers & processing ``JSON``-requests & returning appropriate responses
-- ... and much more – give me some sources / docs, and I'll crack the code😉
+Validating multiple mainnet Cosmos chains:
+- [Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpssj4tmv)
+- [AssetMantle](https://atomscan.com/assetmantle/validators/mantlevaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpsly5wmy)
+- [Babylon](https://babylon.explorers.guru/validator/bbnvaloper1vyf8pqdtv0e2n05fjagy7qwvnqcr8w3s7lr637)
+- [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpslppaz4)
+- [Source](https://source.explorers.guru/validator/sourcevaloper19f25y64qez3y7egeccrs7pgfhderlr96w386s3)
+- [Teritori](https://teritori.explorers.guru/validator/torivaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpsxelfkx)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmScRay)](https://github.com/IAmScRay/)
