@@ -5,7 +5,7 @@ My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is prono
 Languages I use:
 - Python (back-end logic with `FastAPI`, TG bots with `aiogram`, UI with `tkinter`, personal pet projects)
 - Bash (server automation)
-- JavaScript (front-end development with `ReactJS`)
+- JavaScript (native front-end development or using frameworks like `ReactJS`)
 - Vyper & Solidity (smart contracts development for EVM-based chains)
 
 ✳️ [Allora Network](https://allora.network)'s Community Moderator ✳️
@@ -19,5 +19,10 @@ Validating multiple mainnet Cosmos chains:
 - [SEDA](https://seda.explorers.guru/validator/sedavaloper19f25y64qez3y7egeccrs7pgfhderlr964yvhr4)
 - [Source](https://source.explorers.guru/validator/sourcevaloper19f25y64qez3y7egeccrs7pgfhderlr96w386s3)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpsxelfkx)
+
+Developing community tools:
+- [Allora Topic Explorer](https://allora-topics.iamscray.dev)
+- [Allora Community Faucet](https://allora-faucet.iamscray.dev)
+- [Holesky Community Faucet](https://holesky-faucet.iamscray.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmScRay)](https://github.com/IAmScRay/)
