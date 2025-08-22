@@ -22,7 +22,7 @@ Validating multiple mainnet Cosmos chains:
 
 Developing community tools:
 - [Allora Community Faucet](https://allora-faucet.iamscray.dev)
-- [Allora Offchain Node (Python implementation)][https://github.com/IAmScRay/allora_offchain_node_py]
+- [Allora Offchain Node][https://github.com/IAmScRay/allora_offchain_node_py]
 - [Holesky Community Faucet](https://holesky-faucet.iamscray.dev)
 - [Vyper Deployer](https://github.com/IAmScRay/vyper_deployer)
 
