@@ -16,13 +16,13 @@ Validating multiple mainnet Cosmos chains:
 - [Babylon](https://babylon.explorers.guru/validator/bbnvaloper1vyf8pqdtv0e2n05fjagy7qwvnqcr8w3s7lr637)
 - [IRIShub](https://ping.pub/iris/staking/iva16fww2helkjrpaqlhvp0tetxccxwwq3uum8nyr7)
 - [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpslppaz4)
-- [SGE](https://ping.pub/sge/staking/sgevaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrps994mdv)
 - [SEDA](https://seda.explorers.guru/validator/sedavaloper19f25y64qez3y7egeccrs7pgfhderlr964yvhr4)
 - [Source](https://source.explorers.guru/validator/sourcevaloper19f25y64qez3y7egeccrs7pgfhderlr96w386s3)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1c5w4a3h9y7asl2dwgrcv526g2nlvsrpsxelfkx)
 
 Developing community tools:
 - [Allora Community Faucet](https://allora-faucet.iamscray.dev)
+- [Allora Offchain Node (Python implementation)][https://github.com/IAmScRay/allora_offchain_node_py]
 - [Holesky Community Faucet](https://holesky-faucet.iamscray.dev)
 - [Vyper Deployer](https://github.com/IAmScRay/vyper_deployer)
 
