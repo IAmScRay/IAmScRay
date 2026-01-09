@@ -14,5 +14,3 @@ Developing community tools:
 - [Allora Community Faucet](https://allora-faucet.iamscray.dev)
 - [Allora Offchain Node (Python implementation)](https://github.com/IAmScRay/allora_offchain_node_py)
 - [Vyper Deployer](https://github.com/IAmScRay/vyper_deployer)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmScRay)](https://github.com/IAmScRay/)
