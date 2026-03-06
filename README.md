@@ -10,6 +10,8 @@ Languages I use:
 
 ✳️ Prev. [Allora Network](https://allora.network)'s Community Moderator ✳️
 
+🤖 [RepublicAI](https://www.republicai.io) Moderator 🤖
+
 Developing community tools:
 - [Allora Community Faucet](https://allora-faucet.iamscray.dev) (inactive)
 - [Allora Offchain Node (Python implementation)](https://github.com/IAmScRay/allora_offchain_node_py)
