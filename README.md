@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is pronounced "Pavlo" (well, call me whatever you like🙂). I am a 24 years old blockchain enthusiast.
+My name is **Paul**, but in my language (*Ukrainian if to be exact*) it is pronounced "Pavlo" (well, call me whatever you like🙂). I am a 25 years old blockchain enthusiast.
 
 Languages I use:
 - Python (back-end logic with `FastAPI`, TG bots with `aiogram`, desktop UI with `tkinter`, personal pet projects)
